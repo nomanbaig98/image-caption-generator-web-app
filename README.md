@@ -1,9 +1,7 @@
-# ImageCaptionGenerator
+# ImageCaptionGeneratorWebAppPython
 
-Steps to use
-1. install the anaconda enviroment in enviroment folder
->> conda install env.yml python=3.8
-2. just run the app
+
+just run the app
 >>python app.py
 
 
